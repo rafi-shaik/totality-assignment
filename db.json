@@ -1,0 +1,125 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Apartment",
+        "description": "A cozy apartment in the city center with all modern amenities.",
+        "price": "10k",
+        "image": "https://images.pexels.com/photos/45130/pexels-photo-45130.jpeg",
+        "location": "Hyderbad",
+        "bedrooms": 2,
+        "amenities": ["WiFi", "Air Conditioning", "TV"],
+        "availability":"within 15 days",
+        "tenant_type":"family"
+      },
+      {
+        "id": 2,
+        "title": "Villa",
+        "description": "A luxury villa with a sea view, perfect for a relaxing getaway.",
+        "price": "20k",
+        "image": "https://images.pexels.com/photos/164077/pexels-photo-164077.jpeg",
+        "location": "Banglore",
+        "bedrooms": 4,
+        "amenities": ["Pool", "WiFi", "Breakfast"],
+        "availability":"Imediately",
+        "tenant_type":"Single"
+      },
+      {
+        "id": 3,
+        "title": "Full house",
+        "description": "A charming cottage in the countryside, ideal for nature lovers.",
+        "price": "30k",
+        "image": "https://images.pexels.com/photos/208975/pexels-photo-208975.jpeg",
+        "location": "Chennai",
+        "bedrooms": 3,
+        "amenities": ["Garden", "WiFi", "Fireplace"],
+        "availability":"after 30 days",
+        "tenant_type":"family"
+      },
+      {
+        "id": 4,
+        "title": "Portions",
+        "description": "A stylish loft in a trendy neighborhood, close to restaurants and shops.",
+        "price": "10k",
+        "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg",
+        "location": "Mumbai",
+        "bedrooms": 1,
+        "amenities": ["WiFi", "Kitchen", "Gym"],
+        "availability":"within 30 days",
+        "tenant_type":"family"
+      },
+      {
+        "id": 5,
+        "title": "Apartment",
+        "description": "A beautiful apartment beside the beach, perfect for  beach view.",
+        "price": "30k",
+        "image": "https://images.pexels.com/photos/46221/pexels-photo-46221.jpeg",
+        "location": "Hyderabad",
+        "bedrooms": 2,
+        "amenities": ["Beach Access", "WiFi", "Barbecue"],
+        "availability":"within 15 days",
+        "tenant_type":"family"
+      },
+      {
+        "id": 6,
+        "title": "Villa",
+        "description": "A luxury villa with a sea view, perfect for a relaxing getaway.",
+        "price": "100k",
+        "image": "https://images.pexels.com/photos/367529/pexels-photo-367529.jpeg",
+        "location": "Banglore",
+        "bedrooms": 4,
+        "amenities": ["Hot Tub", "WiFi", "Mini Bar"],
+        "availability":"Imediately",
+        "tenant_type":"family"
+      },
+      {
+        "id": 7,
+        "title": "Full house",
+        "description": "An extravagant house suite with stunning city views.",
+        "price": "40k",
+        "image": "https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png",
+        "location": "Banglore",
+        "bedrooms": 2,
+        "amenities": ["WiFi", "Balcony"],
+        "availability":"Imediately",
+        "tenant_type":"family"
+      },
+      {
+        "id": 8,
+        "title": "Apartment",
+        "description":  "A cozy apartment in the city center with all modern amenities.",
+        "price": "60k",
+        "image": "https://assets.ccbp.in/frontend/static-website/flats-list-card3-img.png",
+        "location": "chennai",
+        "bedrooms": 3,
+        "amenities": ["Hot Tub", "WiFi", "Mini Bar"],
+        "availability":"within 15 days",
+        "tenant_type":"family"
+      },
+      {
+        "id": 9,
+        "title": "Full house",
+        "description": "An extravagant penthouse suite with stunning city views.",
+        "price": "100k",
+        "image": "https://assets.ccbp.in/frontend/static-website/flats-list-card2-img.png",
+        "location": "Hyderabad",
+        "bedrooms": 4,
+        "amenities": ["Balcony", "WiFi", "Mini Bar","Pool"],
+        "availability":"Imediately",
+        "tenant_type":"family"
+      },
+      {
+        "id": 10,
+        "title": "Portions",
+        "description": "A stylish loft in a trendy neighborhood, close to restaurants and shops.",
+        "price": "10k",
+        "image": "https://images.pexels.com/photos/367529/pexels-photo-367529.jpeg",
+        "location": "Banglore",
+        "bedrooms": 1,
+        "amenities": ["Bed", "attched bathroom", "Mini Kitchen"],
+        "availability":"Imediately",
+        "tenant_type":"single"
+      }
+    ]
+  }
+  

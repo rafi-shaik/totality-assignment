@@ -1,0 +1,53 @@
+.property-card{
+    display: flex;
+    flex-direction: row;
+    border:1px solid black;
+    margin-top: 0px;
+   
+
+}
+.img-container{
+    height: 150px;
+    width: 150px;
+    border:1px solid black;
+}
+.des-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 6px;
+}
+.loca{
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.title{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.bookings{
+    background-color: rgb(226, 208, 226);
+    margin-top: 0px;
+}
+.add-to-cart{
+     /* Space between buttons */
+    /* Padding inside buttons */
+      font-size: 8px; /* Font size */
+      cursor: pointer; /* Pointer cursor on hover */
+      border: none;
+      border-radius: 5px;
+      height: 22px; 
+      text-align: center;
+      background-color: orangered;
+      width:60px;
+      color: #f0f0f0;
+      margin-top: 3px;
+}
+.booking-head{
+    font-size: 20px;
+    font-weight: bold;
+}

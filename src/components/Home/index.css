@@ -1,0 +1,64 @@
+/* Home.css */
+
+.home {
+    display: flex;
+    flex-direction: column;
+
+    
+    height: 100vh; /* Full viewport height */
+    background-color: #ffffff;
+    align-items: center;
+    padding-top: 10px;/* Background color for better visibility */
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    flex-direction: column;
+    margin-top: 0px;
+   
+    text-align: center;
+    padding-top: 0px;
+  }
+  
+  .buy-button,
+  .rent-button {
+    margin: 0 10px; /* Space between buttons */
+    padding: 5px 15px; /* Padding inside buttons */
+    font-size: 12px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    border: none;
+    border-radius: 5px;
+    height: 25px; 
+    text-align: center;/* Rounded corners */
+  }
+  
+  .buy-button {
+    background-color: orangered; /* Green background for "Buy" button */
+    color: white; /* White text */
+  }
+  
+  .rent-button {
+    background-color:  orangered;  /* Blue background for "Rent" button */
+    color: white; /* White text */
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40vh;
+    margin-top: 15px;
+  }
+  .easy{
+    font-size: 15px;
+    text-align: center;
+    
+  }
+  .para{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 0px;
+  }
